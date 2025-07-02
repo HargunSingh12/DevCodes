@@ -1,7 +1,8 @@
 function page() {
   console.log("Hello")
   return (
-  <div>About</div>)
+  <div>About</div>
+)
 }
 
 export default page;
