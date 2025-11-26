@@ -1,4 +1,4 @@
-# DevCodes - SaaS Coding Platform
+# DevCodes - SaaS Coding Platform (Not Completed yet)
 
 A browser-based coding platform built with Next.js and Monaco Editor. Uses Convex for real-time backend logic and data syncing.
 
